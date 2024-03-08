@@ -1,0 +1,4 @@
+flask
+pymongo
+flask_jwt_extended
+redis
